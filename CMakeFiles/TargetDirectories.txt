@@ -1,0 +1,3 @@
+/home/carolina/Documentos/algo2/1C2022/sortingAlgorithms/CMakeFiles/main.dir
+/home/carolina/Documentos/algo2/1C2022/sortingAlgorithms/CMakeFiles/edit_cache.dir
+/home/carolina/Documentos/algo2/1C2022/sortingAlgorithms/CMakeFiles/rebuild_cache.dir
